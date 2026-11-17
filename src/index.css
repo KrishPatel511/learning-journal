@@ -1,0 +1,14 @@
+table {
+  border-collapse: collapse;   /* merges double borders into one line */
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #999;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #f0f0f0;
+}
