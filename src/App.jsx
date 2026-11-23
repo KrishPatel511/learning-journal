@@ -1,4 +1,5 @@
-import UseMemoExamples from "./components/useMemoExamples";
+import CallAPI from "./components/CallAPI";
+
 
 const App = () => {
   // const [count, setCount] = useState(0);
@@ -15,7 +16,11 @@ const App = () => {
 
       {/* <UseMemoDemo/> */}
 
-      <UseMemoExamples/>
+     
+
+      {/* <UseMemoComp/> */}
+
+      <CallAPI/>
     </>
   );
 };
